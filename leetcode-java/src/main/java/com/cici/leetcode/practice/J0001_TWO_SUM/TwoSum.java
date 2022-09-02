@@ -8,4 +8,7 @@ package com.cici.leetcode.practice.J0001_TWO_SUM;
  */
 public class TwoSum {
 
+  public static void main(String[] args) {
+
+  }
 }
