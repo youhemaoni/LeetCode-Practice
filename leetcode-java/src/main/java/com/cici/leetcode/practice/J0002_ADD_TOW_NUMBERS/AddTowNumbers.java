@@ -24,6 +24,7 @@ public class AddTowNumbers {
         tail.next = new ListNode(sum%10);
         tail=tail.next;
       }
+
       carry = sum / 10;
       if(l1 != null)
         l1 = l1.next;
